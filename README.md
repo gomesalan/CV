@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alan Gomes 
+- 👋 Hi, I’m Alan Gomes. 
 - 👀 I’m interested in employment opportunities in data science. 
 - 🌱 I’m currently learning python for data science, SQL, machine learning and english. 
 - 📫 How to reach me ? Send a whatsapp message to +55 11 946666040
