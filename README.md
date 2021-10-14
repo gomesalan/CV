@@ -7,4 +7,4 @@
 gomesalan/gomesalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Aqui está meu currículo completo: [complete_cv.pdf](https://github.com/gomesalan/CV/files/7325877/complete_cv.pdf)
+Aqui está meu currículo completo: [cv_completo.pdf](https://github.com/gomesalan/CV/files/7349009/cv_completo.pdf)
