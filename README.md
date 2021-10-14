@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Alan Gomes 
-- 👀 I’m interested in employment opportunities in data science. 
-- 🌱 I’m currently learning python for data science, SQL, machine learning and english. 
-- 📫 How to reach me ? Send a whatsapp message to +55 11 946666040
+- 👋 Olá, meu nome é Alan Gomes. 
+- 👀 Estou a procura de oportunidades de trabalho na área de ciência de dados.  
+- 🌱 Atualmente estou estudando python para data science, SQL, aprendizado de máquina (ML) e inglês. 
+- 📫 Meu número de whatsapp é:  +55 11 946666040
 
 <!---
 gomesalan/gomesalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Aqui está meu currículo completo: [cv_completo.pdf](https://github.com/gomesalan/CV/files/7349009/cv_completo.pdf)
