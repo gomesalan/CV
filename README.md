@@ -1,8 +1,6 @@
 
-Olá meu nome é **Alan Gomes**, sou formado no bacharelado em física da Universidade Federal do ABC - UFABC, atualmente estou cursando ciência da computação na mesma universidade. Meu próximo passo será o mestrado acadêmico, na física ou na computação.  
-
-Estou em busca de oportunidades para trabalhar com ciência de dados, tanto vagas de estágio como para efetivo. 
-
+Olá meu nome é **Alan Gomes**, sou formado no bacharelado em física da Universidade Federal do ABC - UFABC. Sou cientista de dados I no Itaú-Unibanco desde 2022. 
+ 
 Aqui está meu **currículo completo**: [cv_completo.pdf](https://github.com/gomesalan/CV/files/7349009/cv_completo.pdf)
 
 Aqui está meu **currículo resumido**: [cv_resumido_alan_gomes_ufabc.pdf](https://github.com/gomesalan/CV/files/7573240/cv_resumido_alan_gomes_ufabc.pdf)
