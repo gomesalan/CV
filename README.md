@@ -1,7 +1,7 @@
 
 Olá meu nome é **Alan Gomes**, sou formado no bacharelado em **física** da Universidade Federal do ABC - UFABC. Sou cientista de dados I no Itaú-Unibanco desde 2022. 
  
-Aqui está meu **currículo completo**: [complete_cv.pdf](https://github.com/gomesalan/CV/files/8310021/complete_cv.pdf)
+Aqui está meu **currículo completo**: [cv_completo_alan_gomes_cd.pdf](https://github.com/gomesalan/CV/files/8838471/cv_completo_alan_gomes_cd.pdf)
 
 Aqui está meu **currículo resumido**: [cv_alan_gomes_ufabc.pdf](https://github.com/gomesalan/CV/files/8310022/cv_alan_gomes_ufabc.pdf)
 
