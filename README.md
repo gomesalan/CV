@@ -7,8 +7,6 @@ Aqui está meu **currículo resumido**: [cv_alan_gomes_ufabc.pdf](https://github
 
 Gosto muito de matemática aplicada, probabilidade e estatística e programação, são áreas fascinantes que nos fornecem ferramentas para resolver os mais variados tipos de problema com as mais variadas complexidades. Utilizar tais conhecimentos para resolução de problemas é fundamental para garantir eficiência e competitividade. 
 
-Na área de ciências sociais aplicadas tenho interesse em relações internacionais (geopolítica e segurança internacional), ciência política e economia. 
-
 <!---
 gomesalan/gomesalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
